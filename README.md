@@ -1,1 +1,2 @@
-# 12.03_kubernetes_install_part_1
+### 12.03_kubernetes_install_part_1 </br>
+#### Задание 1: Описать требования к кластеру: </br>
